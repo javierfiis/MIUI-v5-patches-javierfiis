@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">Deseas que %1$s Obtenga Permiso de ROOT?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">Permisos de ROOT puede causar inestabilidad en el sistema</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Sus datos privados, como las cuentas, contraseñas y mensajes pueden verse comprometidas</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step5">Uselo con Precaucion!</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Esta seguro que %1$s obtenga permiso de ROOT?</string>
+</resources>
